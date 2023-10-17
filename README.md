@@ -1,7 +1,24 @@
-### Hi there 👋
+<h1>Hi, I'm Alex! <br/><a href="[https://www.linkedin.com/alexander-milenkovic/]">Cybersecurity Professional</a></h1>
+
+<h2>👨‍💻 Cyber security Projects:</h2>
+
+- <b>Home Labs</b>
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management with OpenVAS in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="AlexMilenkovic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: [https://www.linkedin.com/in/alexander-milenkovic/]
 
 <!--
-**AlexMilenkovic1982/AlexMilenkovic1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
