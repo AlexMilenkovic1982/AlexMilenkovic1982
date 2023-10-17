@@ -4,7 +4,7 @@
 
 - <b>Home Labs</b>
   - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
-  - [Vulnerability Management with OpenVAS in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Management with OpenVAS in Azure](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
 
 
 
