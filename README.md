@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/><a href="[https://www.linkedin.com/alexander-milenkovic/]">Cybersecurity Professional</a></h1>
 
-<h2>👨‍💻 Cyber security Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Labs</b>
   - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
