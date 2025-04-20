@@ -11,6 +11,8 @@
 - <b>Security Operations & Threat Hunting</b>
 
   - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
+
+- <b>GRC</b>
     
 <h2> 🤳 Connect with me:</h2>
 
