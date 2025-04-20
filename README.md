@@ -15,7 +15,7 @@
 - <b>GRC</b>
 
   - [Oscorp Cyber Security Program](https://github.com/AlexMilenkovic1982/Oscorp-Cyber-Security-Program/blob/main/Oscorp%20GRC%20Cybersecurity%20Assessment.md )
-  - [Vulnerability Management Policy](https://github.com/AlexMilenkovic1982/Oscorp-Cyber-Security-Program/blob/main/Oscorp%20GRC%20Cybersecurity%20Assessment.md )
+  - [Vulnerability Management Policy](https://docs.google.com/document/d/10JK-C5ibFJwitVOIewygXIsDshvleBEc0BTIW4Mh3yc/edit?usp=sharing)
    
 <h2> 🤳 Connect with me:</h2>
 
