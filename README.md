@@ -4,7 +4,7 @@
 
 - <b>Vulnerability Management</b>
   
-  - [Vulnerability Management Program Implementation](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
+  - [Vulnerability Management Program Implementation](https://github.com/AlexMilenkovic1982/Vulnerability-Management-Program-Implementation)
   - [Vulnerability Management with OpenVAS in Azure](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
   - [Email Attachment Analysis (Credential Harvester)](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
 
