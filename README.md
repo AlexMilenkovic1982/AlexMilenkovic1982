@@ -13,7 +13,9 @@
   - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
 
 - <b>GRC</b>
-    
+
+ - [Oscorp Cyber Security Program](https://github.com/AlexMilenkovic1982/Oscorp-Cyber-Security-Program/blob/main/Oscorp%20GRC%20Cybersecurity%20Assessment.md )
+   
 <h2> 🤳 Connect with me:</h2>
 
 
