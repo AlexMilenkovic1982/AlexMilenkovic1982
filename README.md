@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Home Labs</b>
-  - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
+- <b>Vulnerability Management</b>
+  
+  - [Vulnerability Management Program Implementation](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
   - [Vulnerability Management with OpenVAS in Azure](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
   - [Email Attachment Analysis (Credential Harvester)](https://github.com/AlexMilenkovic1982/VulnerabilityManagementOpenVas/tree/main)
 
+- <b>Security Operations & Threat Hunting</b>
 
+  - [Implementing a SOC and Honeynet in Azure](https://github.com/AlexMilenkovic1982/SocAndHoneynetLab/tree/main)
+    
 <h2> 🤳 Connect with me:</h2>
 
 
